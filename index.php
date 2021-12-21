@@ -4,6 +4,6 @@
     <title>Strona testowa</title>
 </head>
 <body>
-    Jest to strona testowa w języku php xD
+    <a href="./test1.php">test1</a><br><a href="./test2.php">test2</a>
 </body>
 </html>
